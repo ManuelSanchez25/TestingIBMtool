@@ -122,3 +122,4 @@ def delete_col(collection):
 if __name__ == '__main__':
     print("Server running in port %s"%(PORT))
     app.run(host='0.0.0.0', port=PORT, debug=True)
+#listo
